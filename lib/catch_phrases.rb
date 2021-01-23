@@ -11,4 +11,6 @@ def toadstool
 end
 
 def link 
+  staus = "It's Dangerous To Go Alone! Take This."
+  puts status
 end
